@@ -18,8 +18,9 @@
     --color-box-base: #FFFFFF;
     --color-box-footer: #FAFAFC;
     --color-small-info: #C1BCCC;
-    font-size: 60%; /* controle das medidas rem */
-} 
+    font-size: 60%;
+    /* controle das medidas rem */
+}
 
 * {
     margin: 0;
@@ -27,7 +28,8 @@
     box-sizing: border-box;
 }
 
-html, body {
+html,
+body {
     height: 100vh;
 }
 
@@ -49,5 +51,4 @@ textarea {
 #container {
     width: 90vw;
     max-width: 700px;
-    
 }
